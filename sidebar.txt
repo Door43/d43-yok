@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yok:home|Door43 (yok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yok|d43-yok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yok/archive/master.zip|d43-yok.zip]]
+
+**Recent Changes**
+{{changes>ns = yok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yok|Ethnologue data]]
+
